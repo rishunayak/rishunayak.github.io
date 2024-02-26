@@ -1,16 +1,22 @@
 {
   "files": {
     "main.css": "/static/css/main.3f693793.css",
-    "main.js": "/static/js/main.fa128a8b.js",
+    "main.js": "/static/js/main.0fe7e906.js",
     "static/js/787.93c3fdb3.chunk.js": "/static/js/787.93c3fdb3.chunk.js",
-    "static/media/Rishu_Nayak_Resume.pdf": "/static/media/Rishu_Nayak_Resume.d28f039d23aca81d04ad.pdf",
+    "static/media/purpleProject.PNG": "/static/media/purpleProject.2f92767b95c768566e72.PNG",
+    "static/media/BellaVita.PNG": "/static/media/BellaVita.d8078dc8b4d10b8e575b.PNG",
+    "static/media/fitnessBlinder.PNG": "/static/media/fitnessBlinder.1a8c47d18eb20364ec41.PNG",
+    "static/media/SnapdealImage.PNG": "/static/media/SnapdealImage.87efd51aeb644657da60.PNG",
+    "static/media/Rishu_Nayak_Resume.pdf": "/static/media/Rishu_Nayak_Resume.48924222075d635b8785.pdf",
+    "static/media/banner_img.webp": "/static/media/banner_img.4b58fc106ec57647b0f3.webp",
+    "static/media/BlogImage.PNG": "/static/media/BlogImage.5c925f8bb47fd0733b25.PNG",
     "index.html": "/index.html",
     "main.3f693793.css.map": "/static/css/main.3f693793.css.map",
-    "main.fa128a8b.js.map": "/static/js/main.fa128a8b.js.map",
+    "main.0fe7e906.js.map": "/static/js/main.0fe7e906.js.map",
     "787.93c3fdb3.chunk.js.map": "/static/js/787.93c3fdb3.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3f693793.css",
-    "static/js/main.fa128a8b.js"
+    "static/js/main.0fe7e906.js"
   ]
 }
